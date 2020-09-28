@@ -150,6 +150,7 @@ button:hover{
         margin-top:5%;
     }
     nav a{
+        font-size:5vw;
         margin:0 10%;
         color:#626262;
     }
@@ -160,7 +161,8 @@ button:hover{
     }
     /* make smaller font-size on title-container */
     .title-container h1 {
-        font-size:12vw;
+        font-size:10vw;
+        line-height:1;
     }
     /* make button smaller */
     .title-container button {
